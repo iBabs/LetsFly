@@ -1,4 +1,4 @@
-import { JSXElementConstructor, ReactElement, ReactNode, ReactPortal, SetStateAction, useState } from "react";
+import { SetStateAction, useState } from "react";
 import { Carousel } from "react-bootstrap";
 import data from '../data/carousel.json'
 import './carusel.css'
