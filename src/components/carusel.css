@@ -1,19 +1,25 @@
 .carousel-caption p {
     font-weight: 600;
-    color: antiquewhite;
+    color: #d9d918;
+    font-size: large;
+    text-shadow: 2px 2px #4a5e6d;
+
 }
 
 .carousel-caption h3 {
 
-    color: #6dc0ff;
+    color: #4a5e6d;
+    text-shadow: 2px 2px #d9d918;
+}
 
-
+.carousel-captio{
+    background-color: black;
 }
 
 @media only screen and (min-width: 700px) {
     .carousel-caption h3 {
         font-size: xx-large;
-        color: #6dc0ff;
+        color: #445a6b;
         margin-bottom: 20px;
 
     }

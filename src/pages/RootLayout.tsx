@@ -8,7 +8,7 @@ const RootLayout = () => {
 
  <Navi/>
 
-        <Container>
+        <Container className="outlet">
             <Outlet />
         </Container>
     <footer>
