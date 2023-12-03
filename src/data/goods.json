@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name": "Book",
+        "price": 35.99,
+        "img_url": "/images/elisa-calvet-b-S3nUOqDmUvc-unsplash.jpg"
+    },
+    {
+        "id":2,
+        "name": "iPhone 12",
+        "price": 789.99,
+        "img_url": "/images/daniel-romero-TpXoTb1uR5A-unsplash.jpg"
+    },
+    {
+        "id":3,
+        "name": "Samsung",
+        "price": 810.99,
+        "img_url": "/images/anh-nhat-uCqMa_s-JDg-unsplash.jpg"
+    },
+    {
+        "id":4,
+        "name": "Shelve",
+        "price": 560.99,
+        "img_url": "/images/lesly-juarez-EW2cPMEp0mI-unsplash.jpg"
+    },
+    {
+        "id":5,
+        "name": "Car",
+        "price": 200057.99,
+        "img_url": "/images/joey-banks-YApiWyp0lqo-unsplash.jpg"
+    }
+]

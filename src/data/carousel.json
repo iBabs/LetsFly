@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "/car-images/pexels-budgeron-bach-5157234.jpg",
+        "caption": "Unleash Your Drive!",
+        "description": "Discover the perfect blend of style and performance in our curated collection of automobiles. From luxury to economy, find the car that suits your lifestyle."
+    },
+    {
+        "id": 2,
+        "image": "/car-images/pexels-budgeron-bach-5157231.jpg",
+        "caption": "Elevate Your Wardrobe",
+        "description": "Step into the world of style with our latest fashion wear. From elegant dresses to casual chic, our collection will help you express your unique fashion sense."
+    },
+    {
+        "id": 3,
+        "image": "/car-images/pexels-andrea-piacquadio-974964.jpg",
+        "caption": "Tech Essentials, Your Way",
+        "description": "Upgrade your mobile experience with our premium phone accessories. Explore a world of convenience, from protective cases to high-quality chargers."
+    },
+    {
+        "id": 4,
+        "image": "/car-images/pexels-tim-douglas-6567607.jpg",
+        "caption":"Dive into Imagination",
+        "description":"Indulge in a good book or transform your living space with our exquisite furniture pieces. Make your home a sanctuary of comfort and inspiration."
+    }
+]
