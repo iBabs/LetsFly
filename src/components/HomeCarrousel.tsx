@@ -12,9 +12,7 @@ const HomeCarousel = () => {
   
     return (
         <Carousel activeIndex={index} onSelect={handleSelect} style={{color:"blue"}} >
-       {data.map((slide: {
-           id: Key | null | undefined; image: string | undefined; caption: string | number | boolean | ReactElement<any, string | JSXElementConstructor<any>> | Iterable<ReactNode> | ReactPortal | null | undefined; description: string | number | boolean | ReactElement<any, string | JSXElementConstructor<any>> | Iterable<ReactNode> | ReactPortal | null | undefined; 
-}) => {
+       {data.map((slide) => {
         return (
           <Carousel.Item key={slide.id} >        
         <img
